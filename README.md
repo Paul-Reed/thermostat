@@ -35,4 +35,8 @@ There is an [example node-red flow](/example/example_flow) to get you started, o
 
 ### Credit
 
-Originally written by [Dal Handal](http://codepen.io/dalhundal), and enhanced by [Automatikas](http://www.ajso.lt/node-red/nest-thermostat-dashboard-html5-widget-node-red/)
+Originally written by [Dal Hundal](http://codepen.io/dalhundal)
+
+### Licence
+
+Feel free to use the code however you like!
