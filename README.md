@@ -33,6 +33,8 @@ To load the thermometer widget;
 
 There is an [example node-red flow](/example/example_flow) to get you started, once you have completed the above.
 
+To change the temperature setting, hold your mouse down for 1 second on the thermostat, before trying to adjust it, or on a touchscreen device, touch the thermostat for 1 second and then swipe up/down or left/right to adjust.
+
 ### Credit
 
 Originally written by [Dal Hundal](http://codepen.io/dalhundal)
