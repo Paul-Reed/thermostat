@@ -27,7 +27,7 @@ md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolb
   -webkit-transition: fill 0.5s;
   transition: fill 0.5s;
 }
-.dial__ico__leaf {
+.dial path.dial__ico__leaf {
   fill: #13EB13;
   opacity: 0;
   -webkit-transition: opacity 0.5s;
@@ -58,7 +58,8 @@ md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolb
 .dial--state--cooling .dial__shape {
   fill: #007AF1;
 }
-.dial__ticks path {
+.dial__ticks path,
+.dial__ticks path.inactive {
   fill: rgba(255, 255, 255, 0.3);
 }
 .dial__ticks path.active {

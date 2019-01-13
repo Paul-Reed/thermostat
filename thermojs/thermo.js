@@ -301,7 +301,7 @@
 				var isActive = iTick >= min && iTick <= max;
 				attr(tick,{
 					d: pointsToPath(rotatePoints(isLarge ? tickPointsLarge: tickPoints,iTick*theta-properties.offsetDegrees,[properties.radius, properties.radius])),
-					class: isActive ? 'active' : ''
+					class: isActive ? 'active' : 'inactive'
 				});
 			});
 		}
